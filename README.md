@@ -1,6 +1,6 @@
 # nodirlist
 
-Handles directory access.
+Handles folders and directory access.
 
 ## Installation
 
